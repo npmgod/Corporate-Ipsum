@@ -3,6 +3,23 @@
   "version": "1.0.0",
   "description": "Impress your clients!",
   "main": "index.js",
+  "keywords": [
+    "lorem-ipsum",
+    "corporate-ipsum",
+    "lorem",
+    "ipsum",
+    "corporate",
+    "filler",
+    "b.s.",
+    "placeholder",
+    "place",
+    "holder",
+    "funny",
+    "random",
+    "text",
+    "paragraph",
+    "paragraphs"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
