@@ -1,6 +1,9 @@
 # Corporate-Ipsum
 Bored of regular ol' Lorem Ipsum? Spice it up with this corporate filler text, and impress your clients/managers!  
-Original words based on [https://www.atrixnet.com/bs-generator.html](https://www.atrixnet.com/bs-generator.html)
+Original words based on [https://www.atrixnet.com/bs-generator.html](https://www.atrixnet.com/bs-generator.html)  
+\
+\
+[Try it Out!](https://npmgod.github.io/Example-Website/#/corporate-ipsum)
 
 ## Setup
 `npm install corporate-ipsum`
