@@ -1,0 +1,19 @@
+{
+  "name": "corporate-ipsum",
+  "version": "1.0.0",
+  "description": "Impress your clients!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmgod/Corporate-Ipsum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmgod/Corporate-Ipsum/issues"
+  },
+  "homepage": "https://github.com/npmgod/Corporate-Ipsum#readme"
+}
