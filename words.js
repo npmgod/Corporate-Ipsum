@@ -393,5 +393,6 @@ words['nouns'] = [
   'wins',
   'virtualization'
 ];
+words['transitionals'] = ['and', 'then', 'to'];
 
 module.exports = words;
