@@ -361,7 +361,7 @@ words['nouns'] = [
   'platforms',
   'portals',
   'potentialities',
-  'rocess improvements',
+  'process improvements',
   'processes',
   'products',
   'quality vectors',
